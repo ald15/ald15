@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/ald15?theme=nord&font=Noto%20Sans%20Wancho&ext=heatmap)
 <!--
 **ald15/ald15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
